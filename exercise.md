@@ -37,55 +37,55 @@ A good rule of thumb:
 - An **ILO** global analysis (using ISCO data + GPT‑4 task mapping) suggests most occupations are **more exposed to augmentation than full automation**; clerical work shows the highest automation exposure.[^ilo]  
 - The **OECD Employment Outlook** finds early deployments more often **change job quality and tasks** than reduce employment outright—so far. Effects on job quantity may lag adoption.[^oecd]
 
-Forecasts (always uncertain).  
-- The WEF Future of Jobs 2025 projects ~170 million jobs created and ~92 million displaced globally by 2030 (a net +78 million), driven by tech, green transition, and demographics. Skills needs will shift toward AI/data, cybersecurity, and adaptability.[^wef2025]  
-- McKinsey modeling suggests ~27–30% of hours in Europe/US could be automated by 2030 (genAI accelerates this), implying millions of occupational transitions and a major skills upgrade agenda.[^mgi2024]
+**Forecasts (always uncertain).**  
+- The **WEF Future of Jobs 2025** projects **~170 million jobs created** and **~92 million displaced** globally by 2030 (a **net +78 million**), driven by tech, green transition, and demographics. Skills needs will shift toward AI/data, cybersecurity, and adaptability.[^wef2025]  
+- **McKinsey** modeling suggests **~27–30%** of hours in Europe/US could be automated by 2030 (genAI accelerates this), implying millions of **occupational transitions** and a major **skills upgrade** agenda.[^mgi2024]
 
-Takeaway: In the near term, AI looks more like a broad productivity booster and task reshuffler than a universal job destroyer. Over time, transitions could be large—and uneven.
+> Takeaway: In the near term, AI looks more like a broad productivity booster and task reshuffler than a universal job destroyer. Over time, transitions could be large—and uneven.
 
 ---
 
-3) Who’s at risk, who benefits?
+## **3) Who’s at risk, who benefits?**
 
-Higher exposure (declining demand without reskilling):  
+**Higher exposure (declining demand without reskilling):**  
 - Routine office support & clerical roles (data entry, scheduling, basic reporting).  
 - High‑volume customer support that is largely scriptable.  
 - Repetitive content generation without domain expertise.
 
-Lower exposure / likely complemented:  
+**Lower exposure / likely complemented:**  
 - Roles with complex human interaction (healthcare, education, management).  
 - Skilled trades and on‑site physical work (until robots catch up).  
 - Jobs requiring domain knowledge + judgement + accountability (software, product, data, law—augmented rather than replaced).
 
-Early career boost: The contact‑center study and lab experiments show AI can encode and spread best practices, letting juniors perform closer to seniors sooner. That raises productivity—and sometimes wage pressure—but may also compress career ladders unless organizations redesign roles.
+**Early career boost:** The contact‑center study and lab experiments show AI can **encode and spread best practices,** letting juniors perform closer to seniors sooner. That raises **productivity**—and sometimes **wage pressure**—but may also **compress career ladders** unless organizations redesign roles.
 
 ---
 
-4) What actually changes inside a job?
+## **4) What actually changes inside a job?**
 
-1. Time allocation shifts: less rough‑drafting, more reviewing, prompting, verifying.  
-2. Quality bars rise: if AI drafts “good enough”, human value moves to problem framing, data/context curation, taste, and verification.  
-3. Skills portfolio updates: promptcraft, toolchain literacy (APIs, automation), security/privacy hygiene, critical reading of AI output.  
-4. Metrics change: throughput and cycle time improve; judgement errors (hallucinations, misclassifications) become the new bottlenecks to manage.
+1. **Time allocation** shifts: less rough‑drafting, more reviewing, prompting, verifying.  
+2. **Quality bars** rise: if AI drafts “good enough”, human value moves to **problem framing, data/context curation, taste**, and **verification.** 
+3. **Skills portfolio** updates: promptcraft, toolchain literacy (APIs, automation), security/privacy hygiene, critical reading of AI output.  
+4. **Metrics change**: throughput and cycle time improve; judgement errors (hallucinations, misclassifications) become the new bottlenecks to manage.
 
-Design principle for teams: Automate the boring, amplify the human.
+> **Design principle for teams:** Automate the boring, amplify the human.
 
 ---
 
-5) What should you (a first‑year IT student) do?
+## **5) What should you (a first‑year IT student) do?**
 
-- Master the basics of data + automation: get comfortable with CSVs, APIs, and workflow tools (n8n, GitHub Actions).  
-- Practice “prompt → verify → ship”: use AI to draft, but always check sources, test outputs, and document assumptions.  
-- Build a visible portfolio: small public repos showing before/after with and without AI (README demos, notebooks).  
-- Invest in durable skills: systems thinking, communication, security mindset, and domain context.  
-- Work in pairs/teams: peer review catches model errors and improves your prompts and specs.  
+- **Master the basics of data + automation:** get comfortable with CSVs, APIs, and workflow tools (n8n, GitHub Actions).  
+- **Practice “prompt → verify → ship”:** use AI to draft, but always check sources, test outputs, and document assumptions.  
+- **Build a visible portfolio:** small public repos showing before/after with and without AI (README demos, notebooks).  
+- **Invest in durable skills:** systems thinking, communication, security mindset, and domain context.  
+- **Work in pairs/teams:** peer review catches model errors and improves your prompts and specs.  
 
 A simple checklist for any AI‑assisted task:
 
 - [ ] Define the task and acceptance criteria.  
-- [ ] Draft with AI and log prompts.  
-- [ ] Verify: test, cite sources, run sanity checks.  
-- [ ] Document what the tool did vs. what you did.  
+- [ ] Draft with AI and **log prompts**.  
+- [ ] **Verify**: test, cite sources, run sanity checks.  
+- [ ] Document what the tool did vs. what **you** did.  
 - [ ] Commit in small steps with clear messages.  
 
 ---
